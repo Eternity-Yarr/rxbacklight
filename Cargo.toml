@@ -1,0 +1,8 @@
+[package]
+name = "rxbacklight"
+version = "0.1.0"
+authors = ["Dmitry V. <savraz@gmail.com>"]
+
+[dependencies]
+getopts = "0.2"
+
